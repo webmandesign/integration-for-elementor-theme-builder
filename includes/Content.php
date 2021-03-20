@@ -10,8 +10,6 @@
 
 namespace WebManDesign\IFETB;
 
-use WebManDesign\IFETB\Get;
-
 // Exit if accessed directly.
 defined( 'ABSPATH' ) || exit;
 
